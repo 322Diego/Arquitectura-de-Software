@@ -1,19 +1,10 @@
-Nombre del Dueño: 156565545
-DNI del Dueño: gajaffafafa
-Nombre de la Mascota: assafaf
-Enfermedad de la Mascota: ffsfefdgd
-Nombre del Dueño: 12345678
-DNI del Dueño: diego
-Nombre de la Mascota: fernado
-Enfermedad de la Mascota: vhi
+DNI del Dueño: 99999999
+Nombre del Dueño: Pedro
+Nombre de la Mascota: Juan
+Enfermedad de la Mascota: Rabia
 ------------------------------------
-Nombre del Dueño: 589116165
-DNI del Dueño: dadadad
-Nombre de la Mascota: dadad
-Enfermedad de la Mascota: adada
-------------------------------------
-Nombre del Dueño: 2121212
-DNI del Dueño: ddddddd
-Nombre de la Mascota: ssss
-Enfermedad de la Mascota: ddddd
+DNI del Dueño: 12312312
+Nombre del Dueño: Diego
+Nombre de la Mascota: Pichon
+Enfermedad de la Mascota: Distemper
 ------------------------------------
